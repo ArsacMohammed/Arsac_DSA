@@ -1,8 +1,10 @@
+package String;
+
 public class String {
 
 
     public static void main(String[] args) {
-//        String result = longestPrefixfind();
+//        String.String result = longestPrefixfind();
 //        System.out.println("result  ::  "+ result)
 
     }
@@ -10,6 +12,6 @@ public class String {
     private static void longestPrefixfind() {
 
 
-//        String test[] = ["jerry","arsac"];
+//        String.String test[] = ["jerry","arsac"];
     }
 }
